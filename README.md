@@ -1,2 +1,2 @@
 # react-generator
-Plop configuration for authoring new react directories
+Plop configuration for authoring new react directories by @JamesCodes
